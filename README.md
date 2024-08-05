@@ -1,5 +1,6 @@
 # Multithreading-Design-Patterns
-Implementing most used multithreading design patterns use cases and examples in real life
+
+Implementing the most used multithreading design patterns with use cases and examples in real life scenarios using Java and Spring Boot.
 
 ### Introduction to Multithreading in Java
 
@@ -12,3 +13,17 @@ At its essence, multithreading in Java involves dividing a program into smaller 
 One of the key advantages of multithreading is the ability to design applications that remain responsive under heavy load. For instance, in a graphical user interface (GUI) application, multithreading can ensure that the user interface remains responsive while background tasks, such as data processing or network communication, are handled concurrently.
 
 However, developing multithreaded applications comes with its own set of challenges, such as thread synchronization, deadlocks, and race conditions. Java addresses these issues by providing synchronized methods and blocks, the `volatile` keyword, and various concurrency utilities like locks, semaphores, and executors, which help in managing the complexities associated with multithreading.
+
+### Implementing Multithreading Design Patterns in Spring Boot
+
+In this project, we will implement the following multithreading design patterns using Java and Spring Boot:
+
+1. **Active Object Pattern**
+2. **Barrier Pattern**
+3. **Future Promises Pattern**
+4. **Monitor Object Pattern**
+5. **Producer-Consumer Pattern**
+6. **Reader-Writer Pattern**
+7. **Thread Pool Pattern**
+
+Each pattern will be explained in detail, including its use cases and real-life examples. The implementation will demonstrate how to effectively use these patterns to handle concurrent tasks, ensuring responsive and efficient applications.

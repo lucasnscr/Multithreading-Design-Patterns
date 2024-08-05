@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="barrier-pattern" />
+        <module name="producer-consumer-pattern" />
+        <module name="active-object-pattern" />
+        <module name="thread-pool-pattern" />
+        <module name="ready-writer-pattern" />
+        <module name="monitor-object-pattern" />
+        <module name="future-promises-pattern" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="active-object-pattern" options="-parameters" />
+      <module name="barrier-pattern" options="-parameters" />
+      <module name="future-promises-pattern" options="-parameters" />
+      <module name="monitor-object-pattern" options="-parameters" />
+      <module name="producer-consumer-pattern" options="-parameters" />
+      <module name="ready-writer-pattern" options="-parameters" />
+      <module name="thread-pool-pattern" options="-parameters" />
+    </option>
+  </component>
+</project>
