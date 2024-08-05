@@ -1,7 +1,6 @@
-# Multithreading-Design-Patterns
-Implementing most used multithreading design patterns use cases and examples in real life
-
 ### Monitor Object Pattern
+
+![Monitor Object Pattern](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pwn4461fjht0c8scnt47.jpg)
 
 #### Explanation
 
