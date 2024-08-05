@@ -1,7 +1,6 @@
-# Multithreading-Design-Patterns
-Implementing most used multithreading design patterns use cases and examples in real life
-
 ### Thread Pool Pattern
+
+![Thread Pool Pattern](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iyzv012op7vj94b0o9u3.png)
 
 #### Explanation
 
