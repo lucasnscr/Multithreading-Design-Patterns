@@ -1,5 +1,7 @@
 # Multithreading-Design-Patterns
 
+![Multithreading](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3gyuc4tl2omvslmnstqa.png)
+
 Implementing the most used multithreading design patterns with use cases and examples in real life scenarios using Java and Spring Boot.
 
 ### Introduction to Multithreading in Java
