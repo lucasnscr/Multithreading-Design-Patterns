@@ -20,12 +20,12 @@ However, developing multithreaded applications comes with its own set of challen
 
 In this project, we will implement the following multithreading design patterns using Java and Spring Boot:
 
-1. **Active Object Pattern**
-2. **Barrier Pattern**
-3. **Future Promises Pattern**
-4. **Monitor Object Pattern**
-5. **Producer-Consumer Pattern**
-6. **Reader-Writer Pattern**
-7. **Thread Pool Pattern**
+1. **[Active Object Pattern](https://github.com/lucasnscr/Multithreading-Design-Patterns/tree/main/active-object-pattern)**
+2. **[Barrier Pattern](https://github.com/lucasnscr/Multithreading-Design-Patterns/tree/main/barrier-pattern)**
+3. **[Future Promises Pattern](https://github.com/lucasnscr/Multithreading-Design-Patterns/tree/main/future-promises-pattern)**
+4. **[Monitor Object Pattern](https://github.com/lucasnscr/Multithreading-Design-Patterns/tree/main/monitor-object-pattern)**
+5. **[Producer-Consumer Pattern](https://github.com/lucasnscr/Multithreading-Design-Patterns/tree/main/producer-consumer-pattern)**
+6. **[Reader-Writer Pattern](https://github.com/lucasnscr/Multithreading-Design-Patterns/tree/main/ready-writer-pattern)**
+7. **[Thread Pool Pattern](https://github.com/lucasnscr/Multithreading-Design-Patterns/tree/main/thread-pool-pattern)**
 
 Each pattern will be explained in detail, including its use cases and real-life examples. The implementation will demonstrate how to effectively use these patterns to handle concurrent tasks, ensuring responsive and efficient applications.
