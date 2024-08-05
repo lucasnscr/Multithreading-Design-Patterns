@@ -1,7 +1,6 @@
-# Multithreading-Design-Patterns
-Implementing most used multithreading design patterns use cases and examples in real life
-
 ### Reader-Writer Pattern
+
+![Reader-Writer Pattern](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pmmmezmm9vk9qlg4t7nk.JPG)
 
 #### Explanation
 
