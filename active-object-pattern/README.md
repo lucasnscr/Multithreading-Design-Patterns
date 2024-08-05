@@ -1,7 +1,6 @@
-# Multithreading-Design-Patterns
-Implementing most used multithreading design patterns use cases and examples in real life
-
 ### Active Object Pattern
+
+![Active Object Pattern](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/af40j3v81fy6pue3udxz.png)
 
 #### Explanation
 
