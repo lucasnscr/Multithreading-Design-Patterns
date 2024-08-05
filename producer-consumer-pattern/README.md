@@ -1,7 +1,6 @@
-# Multithreading-Design-Patterns
-Implementing most used multithreading design patterns use cases and examples in real life
-
 ### Producer-Consumer Pattern
+
+![Producer-Consumer Pattern](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sv59ze94xlrt35wd4kru.png)
 
 #### Explanation
 
