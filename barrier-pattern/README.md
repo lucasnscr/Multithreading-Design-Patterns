@@ -1,7 +1,6 @@
-# Multithreading-Design-Patterns
-Implementing most used multithreading design patterns use cases and examples in real life
-
 ### Barrier Pattern
+
+![Barrier Pattern](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xt9wfb3yopodcdixbcl1.png)
 
 #### Explanation
 
